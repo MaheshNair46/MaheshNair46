@@ -1,6 +1,16 @@
 # 💫 About Me:
-I'm currently working on<br>Building a lightweight personal AI assistant named Friday, focused on low resource usage on mobile devices<br>Android application development (music player, system-level utilities)<br>Cyber security–oriented academic and practical projects, including forensics and cryptography<br>Backend development using Python + Flask and integrating it with frontends<br>I'm looking to collaborate on<br>Open-source cyber security tools (forensics, sandboxing, privacy, analysis tools)<br>AI assistants optimized for low power and offline environments<br>Android or Linux-based security and automation projects<br>I'm looking for help with<br>Improving logical problem-solving skills in C programming<br>Optimizing AI pipelines for minimal CPU, RAM, and battery usage<br>Advanced cryptography concepts related to real-world security systems<br>Designing scalable and clean project architectures<br>I'm currently learning<br>C programming (logic building and algorithms)<br>Python (Flask backend, automation, AI integration)<br>Android development (Kotlin/Java)<br>Cryptography and cyber forensics (KTU – CEST305, MAT266)<br>AI assistant frameworks such as Mycroft and Rasa<br>Ask me about<br>Cyber security fundamentals and student-level projects<br>Android app development basics<br>Building small, efficient AI systems on mobile devices<br>Beginner-friendly C programming concepts<br>Fun fact<br>I am building my own AI assistant while studying cyber security—and I prefer simple, efficient logic over heavy frameworks.
-
+I’m currently working on
+Lightweight AI assistant (Friday), Android apps, and cyber security projects
+I’m looking to collaborate on
+Open-source cyber security, AI, and Android projects
+I’m looking for help with
+Logic building in C and optimizing low-resource AI systems
+I’m currently learning
+C programming, Python (Flask), Android development, and cryptography
+Ask me about
+Cyber security basics, Android apps, and small AI systems
+Fun fact
+I’m building my own AI assistant while studying cyber security
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maheshmohannair) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahesh Nair) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mahesh_nair) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mahesh_Nair_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheshmohannair46@gmail.com) 
